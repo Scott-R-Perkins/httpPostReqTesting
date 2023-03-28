@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">httpPostReqTesting</string>
+    <string name="send_id">Send ID</string>
+    <string name="url">URL:</string>
+    <string name="id">ID:</string>
+    <string name="https_httpbin_org_post">https://httpbin.org/post</string>
+</resources>
